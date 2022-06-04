@@ -18,7 +18,7 @@
 <a href="https://twitter.com/iquelmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iquelmc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pedro-miguel-cort%C3%A9s-rojas-932071177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro miguel cortes rojas" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005959121761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mike cortes" height="30" width="40" /></a>
-<a href="https://instagram.com/IquelmCortes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iquelm cortes" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iquelm/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iquelm cortes" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCqIK1LPfnx5SoPUZ_LlOvww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miguel cortes" height="30" width="40" /></a>
 </p>
 
